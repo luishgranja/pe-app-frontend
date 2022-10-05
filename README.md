@@ -4,4 +4,4 @@
 
 ## Info
 
-Deployed using AWS amplify
+Deployed using AWS Amplify
