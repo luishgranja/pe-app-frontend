@@ -19,7 +19,7 @@ const App = () => {
         if (file !== undefined) {
             data.append('file', file, file.name);
             const config = {
-                url: 'http://34.238.40.178:3500/file-upload/',
+                url: 'https://pe-app.tech/file-upload/',
                 data: data,
                 method: "post"
             };
